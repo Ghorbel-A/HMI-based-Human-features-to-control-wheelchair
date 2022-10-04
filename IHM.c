@@ -1,4 +1,4 @@
-#include <opencv2/opencv.hpp>
+#include <opencv2/opencv.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
